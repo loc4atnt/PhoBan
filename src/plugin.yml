@@ -1,0 +1,12 @@
+name: PhoBan
+version: 1.0.0
+author: loc4atnt
+main: loc4atnt.phoban.main.PhoBan
+depend: [XLibs,MythicMobs]
+commands:
+    pbad:
+    phoban:
+        aliases: [pb]
+    dongy:
+    roidoi:
+    quai:

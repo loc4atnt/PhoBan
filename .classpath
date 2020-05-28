@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/Spigot jar file/QuickBoard.jar"/>
+	<classpathentry kind="lib" path="E:/Spigot jar file/MythicMobs-4.6.5.jar"/>
+	<classpathentry kind="lib" path="E:/Spigot jar file/Featherboard (3.23.0).jar"/>
+	<classpathentry kind="lib" path="D:/skyblock/plugins/worldguard-6.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Spigot jar file/spigot-1.14.4.jar"/>
+	<classpathentry kind="lib" path="E:/Spigot jar file/TitleManager-2.2.6.jar"/>
+	<classpathentry kind="lib" path="E:/Spigot jar file/InfoBoard-2.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/XLibs_v1_14.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
